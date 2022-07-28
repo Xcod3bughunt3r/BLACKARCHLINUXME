@@ -1,0 +1,149 @@
+# MIRROR ARCH :
+#### Worldwide
+#Server = https://geo.mirror.pkgbuild.com/$repo/os/$arch
+
+#Server = https://mirror.rackspace.com/archlinux/$repo/os/$arch
+
+<br>
+
+#### Hong Kong
+#Server = https://asia.mirror.pkgbuild.com/$repo/os/$arch
+
+#Server = https://arch-mirror.wtako.net/$repo/os/$arch
+
+<br>
+
+#### Indonesia
+#Server = https://vpsmurah.jagoanhosting.com/archlinux/$repo/os/$arch
+
+#Server = https://mirror.papua.go.id/archlinux/$repo/os/$arch
+
+#Server = https://mirror.repository.id/archlinux/$repo/os/$arch
+
+#Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+
+<br>
+
+#### Russia
+#Server = https://mirror.surf/archlinux/$repo/os/$arch
+
+#Server = https://mirror.nw-sys.ru/archlinux/$repo/os/$arch
+
+#Server = https://mirror.rol.ru/archlinux/$repo/os/$arch
+
+#Server = https://mirror.truenetwork.ru/archlinux/$repo/os/$arch
+
+#Server = https://mirror.yandex.ru/archlinux/$repo/os/$arch
+
+<br>
+
+#### Singapore
+#Server = https://mirror.0x.sg/archlinux/$repo/os/$arch
+
+#Server = https://mirror.aktkn.sg/archlinux/$repo/os/$arch
+
+#Server = https://download.nus.edu.sg/mirror/archlinux/$repo/os/$arch
+
+#Server = https://mirror.guillaumea.fr/archlinux/$repo/os/$arch
+
+#Server = https://mirror.jingk.ai/archlinux/$repo/os/$arch
+
+#Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
+
+<br>
+
+# MIRROR CUSTOM IPv4 :
+#### United States
+#Server = https://iad.mirrors.misaka.one/archlinux/$repo/os/$arch
+
+#### United Kingdom
+#Server = https://lon.mirror.rackspace.com/archlinux/$repo/os/$arch
+
+#### Singapore
+#Server = https://mirror.guillaumea.fr/archlinux/$repo/os/$arch
+
+#### Indonesia
+#Server = https://mirror.gi.co.id/archlinux/$repo/os/$arch
+
+#### South Korea
+#Server = https://mirror.funami.tech/arch/$repo/os/$arch
+
+<br>
+
+# MIRROR CUSTOM IPv4 & IPv6 :
+#### Indonesia
+#Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+
+#### United States
+#Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+
+<br>
+
+# ALL MIRRORS ARCH & BLACK ARCH LINUX :
+  * AT|http://mirror.easyname.at/blackarch/$repo/os/$arch|easyname
+  * AU|http://blackarch.mirror.digitalpacific.com.au/$repo/os/$arch|digitalpacific
+  * BG|https://mirror.telepoint.bg/blackarch/$repo/os/$arch|telepoint
+  * CH|http://mirror.easyname.ch/blackarch/$repo/os/$arch|easyname
+  * CH|https://mirror.tillo.ch/ftp/blackarch/$repo/os/$arch|tillo
+  * CN|https://mirror.sjtu.edu.cn/blackarch/$repo/os/$arch|SJTUG
+  * CN|https://mirrors.tuna.tsinghua.edu.cn/blackarch/$repo/os/$arch|TUNA
+  * CN|https://mirrors.ustc.edu.cn/blackarch/$repo/os/$arch|USTC
+  * CN|https://mirrors.nju.edu.cn/blackarch/$repo/os/$arch|nju
+  * CN|http://mirrors.nju.edu.cn/blackarch/$repo/os/$arch|nju
+  * CN|http://mirrors.aliyun.com/blackarch/$repo/os/$arch|aliyun
+  * CN|https://mirrors.aliyun.com/blackarch/$repo/os/$arch|aliyun
+  * DE|https://blackarch.org/blackarch/$repo/os/$arch|blackarch
+  * DE|http://blackarch.org/blackarch/blackarch/$repo/os/$arch|blackarch
+  * DE|http://blackarch.unixpeople.org/$repo/os/$arch|unixpeople
+  * DE|http://mirror.undisclose.de/blackarch/$repo/os/$arch|undisclose
+  * DE|https://blackarch.unixpeople.org/$repo/os/$arch|unixpeople
+  * DE|https://ftp.halifax.rwth-aachen.de/blackarch/$repo/os/$arch|RWTH-Aachen
+  * DE|https://mirrors.dr460nf1r3.me/repos/blackarch/$repo/os/$arch|GarudaLinux
+  * DE|https://mirror.undisclose.de/blackarch/$repo/os/$arch|undisclose
+  * DK|https://mirrors.dotsrc.org/blackarch/$repo/os/$arch|dotsrc
+  * EC|http://mirror.cedia.org.ec/blackarch/$repo/os/$arch|eseerror
+  * EC|https://mirror.cedia.org.ec/blackarch/$repo/os/$arch|eseerror
+  * EC|https://mirror.uta.edu.ec/blackarch/$repo/os/$arch|eseerror
+  * FR|http://blackarch.leneveu.fr/$repo/os/$arch|JayCie
+  * FR|http://blackarch.pi3rrot.net/blackarch/$repo/os/$arch|Pi3rrot
+  * FR|http://mirror.cyberbits.eu/blackarch/$repo/os/$arch|cyberbits.eu
+  * FR|https://mirror.cyberbits.eu/blackarch/$repo/os/$arch|cyberbits.eu
+  * GB|https://www.mirrorservice.org/sites/blackarch.org/blackarch/$repo/os/$arch|mirrorservice
+  * GB|http://www.mirrorservice.org/sites/blackarch.org/blackarch/$repo/os/$arch|mirrorservice
+  * GR|http://ftp.cc.uoc.gr/mirrors/linux/blackarch/$repo/os/$arch|cc.uoc.gr
+  * HU|https://quantum-mirror.hu/mirrors/pub/blackarch/$repo/os/$arch|quantum-mirror
+  * IR|http://mirror.blackrepo.com/$repo/os/$arch|blackrepo
+  * IT|http://blackarch.mirror.garr.it/mirrors/blackarch/$repo/os/$arch|garr
+  * IT|https://blackarch.mirror.garr.it/mirrors/blackarch/$repo/os/$arch|garr
+  * JP|http://ftp.kddilabs.jp/Linux/packages/blackarch/$repo/os/$arch|kddilabs
+  * JP|https://ftp.kddilabs.jp/Linux/packages/blackarch/$repo/os/$arch|kddilabs
+  * JP|http://www.ftp.ne.jp/Linux/packages/blackarch/$repo/os/$arch|ne
+  * NL|http://mirror.neostrada.nl/blackarch/$repo/os/$arch|neostrada
+  * NL|http://mirror.serverion.com/blackarch/$repo/os/$arch|serverion
+  * NL|https://blackarch.pr0s3c.nl/blackarch/$repo/os/$arch|pr0s3c
+  * NL|https://mirror.neostrada.nl/blackarch/$repo/os/$arch|neostrada
+  * NL|https://mirror.serverion.com/blackarch/$repo/os/$arch|serverion
+  * NZ|http://nz-mirror.intergrid.com.au/blackarch/$repo/os/$arch|intergrid
+  * PL|http://ftp.icm.edu.pl/pub/Linux/dist/blackarch/$repo/os/$arch|ICMuniversity
+  * PL|https://ftp.icm.edu.pl/pub/Linux/dist/blackarch/$repo/os/$arch|ICMuniversity
+  * RU|http://mirror.surf/blackarch/$repo/os/$arch|mirror.surf
+  * RU|http://mirror.truenetwork.ru/blackarch/$repo/os/$arch|truenetwork
+  * RU|https://mirror.truenetwork.ru/blackarch/$repo/os/$arch|truenetwork
+  * RU|https://mirror.yandex.ru/mirrors/blackarch/$repo/os/$arch|yandex
+  * SE|http://mirror.zetup.net/blackarch/$repo/os/$arch|zetup
+  * SE|https://mirror.zetup.net/blackarch/$repo/os/$arch|zetup
+  * SG|http://download.nus.edu.sg/mirror/blackarch/$repo/os/$arch|NUS
+  * SG|https://download.nus.edu.sg/mirror/blackarch/$repo/os/$arch|NUS
+  * TR|http://ftp.linux.org.tr/blackarch/$repo/os/$arch|linux.org.tr
+  * TR|https://ftp.linux.org.tr/blackarch/$repo/os/$arch|linux.org.tr
+  * TW|http://blackarch.cs.nctu.edu.tw/$repo/os/$arch|pichuang
+  * TW|https://blackarch.cs.nctu.edu.tw/$repo/os/$arch|pichuang
+  * UK|http://mirrors.gethosted.online/blackarch/blackarch/$repo/os/$arch|gethosted
+  * UK|https://mirrors.gethosted.online/blackarch/blackarch/$repo/os/$arch|gethosted
+  * US|http://distro.ibiblio.org/blackarch/$repo/os/$arch|Ibiblio
+  * US|http://mirror.team-cymru.com/blackarch/$repo/os/$arch|TeamCymru
+  * US|https://distro.ibiblio.org/blackarch/$repo/os/$arch|Ibiblio
+  * US|https://mirror.math.princeton.edu/pub/blackarch/$repo/os/$arch|Princeton
+  * WW|https://mirrors.fossho.st/blackarch/$repo/os/$arch|Fosshost
+  * WW|https://mirrors.fosshost.org/blackarch/$repo/os/$arch|Fosshost
+
