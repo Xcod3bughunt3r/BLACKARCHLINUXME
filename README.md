@@ -7,6 +7,7 @@
   <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/master/blackarch.sh">Install Black Arch Tools.</a><br>
   <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/master/blackarchtools.sh">Install Black Arch Tools.</a><br>
   <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/master/ArchRepo.md">ARCH Repository.</a><br>
+  <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/main/mirror-blackarch.lst">Mirror BlackArch</a><br>
   <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/master/Arch-Packages-Command.md">Install Arch Driver & Arch Command.</a><br>
   <a href="https://github.com/Xcod3bughunt3r/Xcod3bughunt3r/blob/master/README.md">And More Xcod3bughunt3r Information.</a><br>
   <a href="https://github.com/Xcod3bughunt3r/BLACKARCHLINUXME/blob/master/LICENSE">PLEASE CHECK LICENSE.</a><br>
